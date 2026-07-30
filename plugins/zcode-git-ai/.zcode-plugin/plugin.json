@@ -1,0 +1,7 @@
+{
+  "name": "zcode-git-ai",
+  "version": "0.1.0",
+  "description": "Track Z Code generated changes with Git AI",
+  "repository": "https://github.com/wyw5257997/zcode-git-ai",
+  "keywords": ["git", "git-ai", "zcode", "ai-attribution"]
+}
