@@ -1,13 +1,12 @@
 {
   "name": "zcode-git-ai-marketplace",
   "description": "Git AI integration for Z Code",
-  "pluginRoot": "plugins",
   "plugins": [
     {
       "name": "zcode-git-ai",
-      "source": "./zcode-git-ai",
+      "source": "./plugins/zcode-git-ai",
       "description": "Track Z Code generated changes with Git AI",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "developer-tools",
       "tags": ["git", "git-ai", "ai-attribution"]
     }
