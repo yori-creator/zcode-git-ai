@@ -2,6 +2,6 @@
   "name": "zcode-git-ai",
   "version": "0.1.1",
   "description": "Track Z Code generated changes with Git AI",
-  "repository": "https://github.com/yori-krs/zcode-git-ai",
+  "repository": "https://github.com/yori-creator/zcode-git-ai",
   "keywords": ["git", "git-ai", "zcode", "ai-attribution"]
 }
