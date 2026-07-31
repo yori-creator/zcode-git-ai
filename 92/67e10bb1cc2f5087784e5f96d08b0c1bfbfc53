@@ -1,0 +1,19 @@
+.gitignore
+  s_8abb473aea5131::t_20edf38f19c68e 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "9267e10bb1cc2f5087784e5f96d08b0c1bfbfc53",
+  "prompts": {},
+  "sessions": {
+    "s_8abb473aea5131": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb255-ed5b-7182-a14b-4aaff8affee8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "006038 weiyuewen <weiyuewen@fcbox.com>"
+    }
+  }
+}
