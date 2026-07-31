@@ -29,13 +29,13 @@ git-ai --version
 4. 添加 Marketplace 来源：
 
    ```text
-   wyw5257997/zcode-git-ai
+   yori-krs/zcode-git-ai
    ```
 
    也可以填写完整地址：
 
    ```text
-   https://github.com/wyw5257997/zcode-git-ai
+   https://github.com/yori-krs/zcode-git-ai
    ```
 
 5. 找到 `zcode-git-ai`，点击 **获取** 并确认插件已启用。
